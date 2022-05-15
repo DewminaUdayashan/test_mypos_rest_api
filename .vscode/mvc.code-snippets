@@ -1,0 +1,116 @@
+{
+	"Create Controller Class Boilerplate": {
+		"prefix": "Controller MVC",
+		"body": [
+		  "<?php",
+		  "",
+		  "class ${1:MyController} extends Controller{",
+		  "",
+		  "    function __construct(){   ",
+		  "        parent::__construct();",
+		  "      \\$this->view->js = array('${3:view_folder}/js/${5:default}.js');",
+		  "    }",
+		  "",
+		  "    function index(){",
+		  "        \\$this->view->title = '${2:title}';",
+		  "        \\$this->view->render('${3:viewr_folder}/index',${4:true});",
+		  "    }",
+		  "",
+		  "}",
+		  ""
+		],
+		"description": "Create Controller Class Boilerplate"
+	  }
+
+
+
+	  ,
+	  "Create Controller Model Boilerplate": {
+		"prefix": "Model MVC",
+		"body": [
+		  "<?php",
+		  "class HomeModel extends Model",
+		  "{",
+		  "    function __construct(){",
+		  "        parent::__construct();",
+		  "    }",
+		  "",
+		  "    public function ${1:myFunction}(){",
+		  "        \\$query = \"${2:query}\";",
+		  "        \\$result = \\$this->db->runQuery(\\$query);",
+		  "",
+		  "        if (\\$result->num_rows > 0) {",
+		  "            while (\\$row = mysqli_fetch_assoc(\\$result)) {",
+		  "                \\$value = \\$row['${3:valName}'];",
+		  "            }",
+		  "            echo json_encode(['status' => 'success', 'html' => \\$value]);",
+		  "        } else {",
+		  "            echo json_encode(['status' => 'empty']);",
+		  "        }",
+		  "    } ",
+		  "",
+		  "}",
+		  ""
+		],
+		"description": "Create Controller Model Boilerplate"
+	  }
+
+	  ,
+
+	  "Create View Title Boilerplate": {
+		"prefix": "Title View MVC",
+		"body": [
+		  "  <title><?= (isset(\\$this->title)) ? \\$this->title : '${1:title}' ?></title>",
+		  ""
+		],
+		"description": "Create View Title Boilerplate"
+	  }
+
+
+	  ,
+
+	  "Create View Custom JS Boilerplate": {
+		"prefix": "Public JS MVC",
+		"body": [
+		  "    <script type=\"text/javascript\" src=\"<?php echo URL; ?>public/js/${1:myjs}.js\"></script>",
+		  ""
+		],
+		"description": "Create Public JS Link Boilerplate on Views"
+	  }
+
+
+	  ,
+
+	  
+	  "Create Custom JS Boilerplate on View": {
+		"prefix": "Custom JS MVC",
+		"body": [
+		  "<?php",
+		  "  if (isset(\\$this->js)) {",
+		  "    foreach (\\$this->js as \\$js) {",
+		  "      echo '<script type=\"text/javascript\" src=\"' . URL . 'views/' . \\$js . '\"></script>';",
+		  "    }",
+		  "  }",
+		  "  ?>"
+		],
+		"description": "Create Custom JS Boilerplate on View"
+	  }
+
+
+	  ,
+
+
+
+	  "Create Initialization of Custom JS Boilerplate on Controller": {
+		"prefix": "JS Initializer",
+		"body": [
+		  "        \\$this->view->js = array('${1:view_folder}/js/${2:default}.js');",
+		],
+		"description": "Create Initialization of Custom JS Boilerplate on Controller"
+	  }
+
+	  ,
+
+
+
+}

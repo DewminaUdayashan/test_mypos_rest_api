@@ -1,0 +1,217 @@
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[11-Jul-2021 23:48:58 America/New_York] PHP Warning:  require(configuration/config.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 6
+[12-Jul-2021 00:12:24 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 10
+[12-Jul-2021 00:12:24 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[12-Jul-2021 00:12:24 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[12-Jul-2021 00:13:30 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 10
+[12-Jul-2021 00:13:30 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[12-Jul-2021 00:13:30 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[12-Jul-2021 01:59:20 America/New_York] PHP Warning:  mysqli_connect(): (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 10
+[12-Jul-2021 01:59:20 America/New_York] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, boolean given in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[12-Jul-2021 01:59:20 America/New_York] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 01:50:03 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined function fetch_assoc() in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php:26
+Stack trace:
+#0 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/controllers/home.php(25): HomeModel->fetchUsers()
+#1 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(128): Home->fetchUsers()
+#2 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#3 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php(23): RunSite->init()
+#4 {main}
+  thrown in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php on line 26
+[13-Jul-2021 02:03:06 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:03:06 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:06:14 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:06:14 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:10:44 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:10:44 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:14:22 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 02:14:22 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 03:18:02 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 03:18:02 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 04:31:58 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 04:31:58 America/New_York] PHP Warning:  require(libs/homeModel.php): failed to open stream: No such file or directory in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php on line 15
+[13-Jul-2021 04:46:53 America/New_York] PHP Notice:  Undefined variable: DB_CON in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:46:53 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php:18
+Stack trace:
+#0 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php(14): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/controllers/home.php(25): HomeModel->fetchUsers()
+#2 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(128): Home->fetchUsers()
+#3 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:47:46 America/New_York] PHP Notice:  Undefined variable: DB_CON in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:47:46 America/New_York] PHP Notice:  Undefined property: Database::$ in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:47:46 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php:18
+Stack trace:
+#0 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php(14): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/controllers/home.php(25): HomeModel->fetchUsers()
+#2 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(128): Home->fetchUsers()
+#3 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:48:37 America/New_York] PHP Notice:  Undefined variable: DB_CON in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:48:37 America/New_York] PHP Notice:  Undefined property: Database::$ in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 04:48:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php:18
+Stack trace:
+#0 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php(14): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/controllers/home.php(25): HomeModel->fetchUsers()
+#2 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(128): Home->fetchUsers()
+#3 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 18
+[13-Jul-2021 23:59:19 America/New_York] PHP Notice:  Undefined variable: conn in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 20
+[13-Jul-2021 23:59:19 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php:20
+Stack trace:
+#0 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php(14): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/controllers/home.php(25): HomeModel->fetchUsers()
+#2 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(128): Home->fetchUsers()
+#3 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 20
+[13-Jul-2021 23:59:59 America/New_York] PHP Notice:  Undefined variable: DB_CON in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 20
+[13-Jul-2021 23:59:59 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php:20
+Stack trace:
+#0 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/models/home_model.php(14): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/controllers/home.php(25): HomeModel->fetchUsers()
+#2 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(128): Home->fetchUsers()
+#3 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/nysc.dtecsolution.com/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(10): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(15): CentersModel->fetchCenters()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchCenters()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(10): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(15): CentersModel->fetchCenters()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchCenters()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(18): Database->runQuery('SELECT * FROM d...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(19): CentersModel->fetchDistricts()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchDistricts()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(18): Database->runQuery('SELECT * FROM d...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(19): CentersModel->fetchDistricts()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchDistricts()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(10): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(15): CentersModel->fetchCenters()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchCenters()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:13 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:13 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(18): Database->runQuery('SELECT * FROM d...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(19): CentersModel->fetchDistricts()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchDistricts()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:21 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:21 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(18): Database->runQuery('SELECT * FROM d...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(19): CentersModel->fetchDistricts()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchDistricts()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[27-Jul-2021 07:34:21 America/New_York] PHP Warning:  mysqli::__construct(): (28000/1045): Access denied for user 'vtasmbtw_nysc'@'localhost' (using password: YES) in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 10
+[27-Jul-2021 07:34:21 America/New_York] PHP Warning:  mysqli::query(): Couldn't fetch mysqli in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 20
+[27-Jul-2021 07:34:21 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on null in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/centers_model.php(10): Database->runQuery('SELECT * FROM c...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php(15): CentersModel->fetchCenters()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchCenters()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(23): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[03-Aug-2021 05:01:57 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/courses_model.php(10): Database->runQuery('SELECT * FROM C...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/courses.php(10): CoursesModel->fetchCourses()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Courses->fetchCourses()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(24): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[03-Aug-2021 07:46:15 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method CoursesModel::fetchCourseCategories() in /home/vtasmbtw/site/nysc/nysc_app/controllers/courses.php:15
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Courses->fetchCourseCategories()
+#1 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#2 /home/vtasmbtw/site/nysc/nysc_app/index.php(24): RunSite->init()
+#3 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/controllers/courses.php on line 15
+[05-Aug-2021 05:09:26 America/New_York] PHP Fatal error:  Uncaught Error: Call to a member function fetch_assoc() on boolean in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php:23
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/models/event_model.php(11): Database->runQuery('SELECT * FROM e...')
+#1 /home/vtasmbtw/site/nysc/nysc_app/controllers/event.php(10): EventModel->fetchEvents()
+#2 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Event->fetchEvents()
+#3 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#4 /home/vtasmbtw/site/nysc/nysc_app/index.php(24): RunSite->init()
+#5 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/libs/Database.php on line 23
+[06-Aug-2021 06:20:37 America/New_York] PHP Fatal error:  Uncaught Error: Call to undefined method CentersModel::fetchCourseCategories() in /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php:24
+Stack trace:
+#0 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(128): Centers->fetchCenterTypes()
+#1 /home/vtasmbtw/site/nysc/nysc_app/libs/RunSite.php(25): RunSite->_callControllerMethod()
+#2 /home/vtasmbtw/site/nysc/nysc_app/index.php(24): RunSite->init()
+#3 {main}
+  thrown in /home/vtasmbtw/site/nysc/nysc_app/controllers/centers.php on line 24
