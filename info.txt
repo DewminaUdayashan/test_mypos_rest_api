@@ -1,0 +1,68 @@
+/////////////////////////////////////////
+
+00. Make configurations first in the configuration folder
+01. Don't Change index file on root path
+02. use public folder for css, js etc.
+03. in views folder you can create html files - create folder (eg:- home) and in it make index.php file.
+04. then make controller for it inside the controllers folder
+
+
+05. class Home extends Controller{
+    /**
+     * constuct the parent constructor
+     */
+    function __construct()
+    {   
+        parent::__construct();
+        $this->view->js = array('home/js/default.js');
+    }
+    /**
+     * @param 'FOLDER/FILE_NAME' don't use file extention
+     * @param Give true if you want to set headers and putters automatically.. There are in the VIEWS/COMMON.. Default is false
+     */
+    function index(){
+        $this->view->title = 'HOME';
+        $this->view->render('home/index',true);
+    }
+} 
+
+06. index function must be made and give view path (don't give .php)
+
+07. if you have common header and footer put it in the common folder inside the views and
+    inside controller make render function with second parameter true
+
+08. you can also include unique js to one view. make js folder and make js file. (views/home/js/default.js) 
+09. then give 
+        $this->view->js = array('home/js/default.js');
+            inside the controller __construct() function..
+
+10. model file name should be like "example_model.php" and class nae should be UpperCammelCase (ExampleModel)
+
+11. all database request must be in model file
+    first make sure give db details to configuration/DatabaseSettings.php file
+    then inside model,
+
+    eg:-
+        $query = "SELECT * FROM home";
+        $result = $this->db->runQuery($query);
+        
+        *note do it in a function
+
+        then call it from controller.. to do it you want new function inside controller
+
+                function getData(){
+                    $this->model->getData();
+                }
+
+        now you can call it from view 
+
+                only you have to give controller and its function
+
+                examplecontroller/getData
+
+12. inside index.php in root you can define custom controllers/models/default index/404 etc..
+
+    $run = new RunSite();
+    $run->setDefaultfile('$$$); --------------------- custom methods
+    $run->init();
+
